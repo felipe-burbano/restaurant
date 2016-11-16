@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+
+}
+p{
+	padding-top: 15px;
+}
+
+.texto-menu1{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 18px;
+    color: white;
+    top: 195px;
+    position: absolute;
+    margin-right: 52%;
+    margin-left: 2%;
+    height: 100%;
+}
+.texto-menu2{
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 18px;
+    color: white;
+    top: 195px;
+    position: absolute;
+    margin-left: 2%;
+    height: 100%;
+}
+.titulo-menu{
+	font-size: 50px;
+	padding-left: 140px;
+}
+.titulo-menu-detalle{
+	font-size: 25px;
+	margin: 15px;
+	margin-top: 50px;
+}
+.titulo-menu-detalle-total{
+	font-size: 25px;
+    float: left;
+}
+.fondo-menu{
+	width: 100%;
+	border-radius: 20px;
+}
+.contenedor-logo{
+	padding-top: 5px;
+	height: 150px;
+    background: #870a0a;
+}
+.button{
+	border-radius: 15px;
+	background: #fd324e;
+	color: white;
+	border: none;
+	padding: 8px 12px;
+	cursor: pointer;
+	font-size: 20px;
+	background: linear-gradient(to left, #fe344e,#ff7250);
+	float: right;
+}
+.formulario-pedido{
+
+}
+.logo{
+
+}
+.contenedor-menu1{
+	/*display: inline-block;*/
+	display: none;
+    width: 50%;
+    height: 100%;
+    background:#870a0a;
+
+}
+.contenedor-menu2{
+	float: right;
+    width: 100%;
+    height: 100%;
+    background:#870a0a;
+}
+.contenido-menu{
+	margin: 5px;
+
+}
+.footer{
+	background: #2e2e2e;
+	height: 50px;
+	color: white;
+}
